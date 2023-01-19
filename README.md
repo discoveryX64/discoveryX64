@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on some simple HTML things
 - 📫 How to reach me Fluffy Gaia#0001 (discord)
 - Alt of XiaoBao13
-- Replit was blocked on my school and isp my school provides, 
-prob won't be coding for a while, unless it's winter, summer, or the weekend
 
 <!---
 discoveryX64/discoveryX64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
