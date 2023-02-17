@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @discoveryX64
-- 👀 I’m interested in programming and video games
+- 👀 I’m interested in programming, video games, and drawing
 - 🌱 I’m currently learning HTML and many other coding languages
-- 💞️ I’m looking to collaborate on some simple HTML things
-- 📫 How to reach me Fluffy Gaia#0001 (discord)
+- 💞️ I’m looking to collaborate on some simple HTML things or LöVE2D projects
+- 📫 How to reach me: ElBee#0001 (discord)
 - Alt of XiaoBao13
 
 <!---
